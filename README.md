@@ -1,5 +1,5 @@
 # face_detector
 Face Detector (FD)
 
-> Github has some problems --> try out here!
+> Github sometimes has some problems --> try out here for best experience!
 - https://facedetector.dominhduy.repl.co
